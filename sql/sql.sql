@@ -1,0 +1,1 @@
+SELECT * FROM admindb123.employee;
